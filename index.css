@@ -25,6 +25,7 @@ body h1{
 
 .box.active{
     background-color: white;
+    background-image: url(image/text.png);
     box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
     transition: 0.5s;
 }
